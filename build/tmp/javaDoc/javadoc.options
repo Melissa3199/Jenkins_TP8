@@ -1,0 +1,8 @@
+-classpath 'C:\\Users\\acer\\Desktop\\gradle\\build\\classes\\java\\main;C:\\Users\\acer\\Desktop\\gradle\\build\\resources\\main'
+-d 'C:\\Users\\acer\\Desktop\\gradle\\build\\docs\\javadoc'
+-doctitle 'gradle 1.0 API'
+-quiet 
+-windowtitle 'gradle 1.0 API'
+'C:\\Users\\acer\\Desktop\\gradle\\src\\main\\java\\com\\example\\exception\\NoSquareException.java'
+'C:\\Users\\acer\\Desktop\\gradle\\src\\main\\java\\com\\example\\model\\Matrix.java'
+'C:\\Users\\acer\\Desktop\\gradle\\src\\main\\java\\com\\example\\service\\MatrixMathematics.java'
